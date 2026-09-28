@@ -43,7 +43,7 @@ The platform aims to help users explore datasets, visualize data, and obtain mea
 
 1. Clone the repository
 
-git clone https://github.com/YOUR-USERNAME/datalens-ai.git
+git clone https://github.com/barathcbe06-gif/datalens-ai.git
 
 2. Navigate to the project
 
